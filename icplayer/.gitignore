@@ -1,7 +1,7 @@
 /test.log
 /.gwt
 /.settings
-/dist
+**icplayer/dist/**
 /gwt-unitCache
 /reports
 /target
